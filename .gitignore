@@ -126,6 +126,6 @@ py36
 .vscode/*
 
 # settings.py
-./myblogapp/settings.py
+/myblogapp/settings.py
 
 # End of https://www.gitignore.io/api/django
